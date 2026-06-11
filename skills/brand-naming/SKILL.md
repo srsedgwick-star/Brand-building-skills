@@ -246,3 +246,13 @@ Prefer:
 7. **Trust test** — Does it feel credible for the category?
 
 Apply these silently. Surface the relevant ones in your output when they affect a name's score or recommendation.
+
+---
+
+## Related Skills
+
+- **brand-strategy**: Strategic foundation that informs naming direction
+- **brand-positioning**: Positioning territory the name must fit
+- **brand-identity**: Visual identity brief built around the chosen name
+- **brand-architecture**: How the name fits into a broader brand/sub-brand system
+- **brand-context**: Foundation context for all brand work

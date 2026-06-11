@@ -128,5 +128,5 @@ Ask the user which feels right:
 - **brand-strategy**: Strategic foundation the manifesto expresses emotionally
 - **brand-story**: Origin narrative the manifesto can draw from
 - **brand-voice**: The tone and style the manifesto should be written in
-- **brand-culture**: How the manifesto lives inside the organization
+- **brand-guidelines**: How the manifesto tone translates into everyday brand standards
 - **brand-context**: Foundation context for all brand work

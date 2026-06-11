@@ -35,9 +35,9 @@ Skills reference each other and build on shared context. The `brand-context` ski
 │brand-  │ │brand-  │ │brand-  │ │brand-  │ │rebrand-│ │brand-  │ │brand-  │ │b2b-    │
 │naming  │ │story   │ │messaging│ │position│ │ing     │ │guidelin│ │manifes-│ │brand-  │
 │brand-  │ │brand-  │ │        │ │competi-│ │        │ │es      │ │to      │ │marketin│
-│archit. │ │packag. │ │        │ │tor-    │ │        │ │brand-  │ │brand-  │ │brand-  │
-│        │ │        │ │        │ │branding│ │        │ │measure-│ │partner-│ │partner-│
-│        │ │        │ │        │ │        │ │        │ │ment    │ │ships   │ │ships   │
+│archit. │ │packag. │ │        │ │tor-    │ │        │ │brand-  │ │brand-  │ │        │
+│        │ │        │ │        │ │branding│ │        │ │measure-│ │partner-│ │        │
+│        │ │        │ │        │ │        │ │        │ │ment    │ │ships   │ │        │
 └────────┘ └────────┘ └────────┘ └────────┘ └────────┘ └────────┘ └────────┘ └────────┘
                                                                               │
                                                               ┌───────────────┼───────────────┐
@@ -62,8 +62,11 @@ Skills cross-reference each other:
 - `target-audience` → `brand-messaging`, `brand-voice`, `brand-positioning`
 - `competitor-branding` → `brand-positioning`, `brand-strategy`
 - `personal-brand` ↔ `b2b-brand-marketing` ↔ `brand-manifesto`
+- `brand-architecture` ↔ `brand-naming` ↔ `brand-strategy`
+- `brand-measurement` ↔ `brand-audit` ↔ `brand-strategy`
 - `d2c-marketing` ↔ `meta-ads` ↔ `google-ads` ↔ `email-marketing`
 - `ugc-strategy` ↔ `influencer-marketing` ↔ `d2c-marketing`
+- `whatsapp-marketing` ↔ `email-marketing` ↔ `d2c-marketing`
 - `brand-partnerships` ↔ `b2b-brand-marketing` ↔ `brand-strategy`
 - `aso` ↔ `d2c-marketing` ↔ `brand-messaging`
 

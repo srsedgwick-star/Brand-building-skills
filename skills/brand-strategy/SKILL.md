@@ -277,3 +277,16 @@ Always:
 - Name the brand throughout (not "the brand" every time)
 - Write personas like real people, not marketing profiles
 - Make competitors feel accurately described, not dismissively burned
+
+---
+
+## Related Skills
+
+- **brand-naming**: Naming workflow built on the strategic foundation
+- **brand-positioning**: Deep positioning work that extends section 04
+- **brand-messaging**: Messaging hierarchy derived from the strategy
+- **brand-identity**: Visual identity brief aligned to the strategy
+- **brand-audit**: Use to diagnose before rebuilding strategy
+- **brand-architecture**: Multi-brand strategy when scope requires it
+- **brand-measurement**: KPIs and metrics to track strategy performance
+- **brand-context**: Foundation context for all brand work
