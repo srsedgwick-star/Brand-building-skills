@@ -12,7 +12,7 @@
   "plugins": [
     {
       "name": "brand-building-skills",
-      "description": "19 brand building skills for strategists, agency owners, and founders: brand strategy, naming, visual identity, brand voice, storytelling, positioning, messaging, audience definition, competitor analysis, brand audit, brand guidelines, brand launch, rebranding, personal brand, brand manifesto, brand architecture, brand measurement, and packaging",
+      "description": "29 brand building and marketing skills: brand strategy, naming, identity, voice, positioning, messaging, audit, guidelines, launch, rebranding, personal brand, manifesto, architecture, measurement, packaging, DTC marketing, B2B brand marketing, brand partnerships, UGC, ASO, WhatsApp marketing, email marketing, influencer marketing, Meta ads, and Google ads",
       "source": "./",
       "strict": false,
       "skills": [
@@ -34,7 +34,17 @@
         "./skills/brand-manifesto",
         "./skills/brand-architecture",
         "./skills/brand-measurement",
-        "./skills/brand-packaging"
+        "./skills/brand-packaging",
+        "./skills/d2c-marketing",
+        "./skills/b2b-brand-marketing",
+        "./skills/brand-partnerships",
+        "./skills/ugc-strategy",
+        "./skills/aso",
+        "./skills/whatsapp-marketing",
+        "./skills/email-marketing",
+        "./skills/influencer-marketing",
+        "./skills/meta-ads",
+        "./skills/google-ads"
       ]
     }
   ]

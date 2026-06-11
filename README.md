@@ -70,6 +70,16 @@ Skills cross-reference each other:
 | [brand-architecture](skills/brand-architecture/) | Define how multiple brands, sub-brands, and product lines relate — branded house, house of brands, endorsed, or hybrid model with naming system. |
 | [brand-measurement](skills/brand-measurement/) | Define KPIs, metrics, and tracking systems to measure brand health, awareness, perception, and equity over time. |
 | [brand-packaging](skills/brand-packaging/) | Create a packaging design brief — structure, visual direction, hierarchy, materials, and unboxing experience. |
+| [d2c-marketing](skills/d2c-marketing/) | Full Direct-to-Consumer marketing system — unit economics, acquisition channels, email/SMS flows, retention mechanics, social proof, and launch checklist. |
+| [b2b-brand-marketing](skills/b2b-brand-marketing/) | B2B brand strategy — buying committee messaging, thought leadership, LinkedIn presence, trust signals, ABM brand layer, and content system. |
+| [brand-partnerships](skills/brand-partnerships/) | Build brand partnerships — co-branding, partnership types, partner identification, outreach templates, agreements, and brand protection. |
+| [ugc-strategy](skills/ugc-strategy/) | User Generated Content system — organic UGC generation, review campaigns, UGC creator briefs, repurposing for ads, and FTC compliance. |
+| [aso](skills/aso/) | App Store Optimization for iOS and Android — keyword strategy, title/subtitle optimization, screenshot design, ratings, A/B testing, and localization. |
+| [whatsapp-marketing](skills/whatsapp-marketing/) | WhatsApp marketing strategy — Business setup, broadcast campaigns, automated flows, conversational commerce, and platform recommendations for India and emerging markets. |
+| [email-marketing](skills/email-marketing/) | Full email marketing channel — list building, platform selection, campaign types, segmentation, deliverability, A/B testing, and benchmarks. |
+| [influencer-marketing](skills/influencer-marketing/) | Influencer strategy — tier selection, vetting, outreach, brief templates, contracts, performance tracking, seeding programs, and FTC compliance. |
+| [meta-ads](skills/meta-ads/) | Meta advertising on Facebook and Instagram — campaign structure, audience targeting, creative strategy, retargeting, budget scaling, and ROAS optimization. |
+| [google-ads](skills/google-ads/) | Google Ads across Search, Shopping, Performance Max, and Display — keyword strategy, Quality Score, bidding, ad copy, conversion tracking, and optimization. |
 <!-- SKILLS:END -->
 
 ## Getting Started

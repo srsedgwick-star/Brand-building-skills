@@ -1,5 +1,21 @@
 # Versions
 
+## 1.2.0 — 2026-06-11
+
+### Skills Added
+- `d2c-marketing` — Full DTC marketing system: acquisition, owned channels, retention, social proof
+- `b2b-brand-marketing` — B2B brand strategy, thought leadership, ABM brand layer, LinkedIn
+- `brand-partnerships` — Co-branding, partnership strategy, outreach, agreements
+- `ugc-strategy` — User Generated Content system, review generation, UGC creator briefs, ad usage
+- `aso` — App Store Optimization for iOS and Android
+- `whatsapp-marketing` — WhatsApp Business, broadcasts, automation, conversational commerce
+- `email-marketing` — Full email channel: list building, deliverability, segmentation, campaigns
+- `influencer-marketing` — Influencer strategy, tiers, brief templates, contracts, FTC compliance
+- `meta-ads` — Facebook + Instagram advertising: campaign structure, creative, targeting, scaling
+- `google-ads` — Google Search, Shopping, PMax, bidding strategy, conversion tracking
+
+---
+
 ## 1.1.0 — 2026-06-11
 
 ### Skills Added
