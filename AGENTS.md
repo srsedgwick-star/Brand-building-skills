@@ -7,13 +7,13 @@ Guidelines for AI agents working in this repository.
 This repository contains **Agent Skills** for AI agents following the [Agent Skills specification](https://agentskills.io/specification.md). Skills install to `.agents/skills/` (the cross-agent standard). This repo also serves as a **Claude Code plugin marketplace** via `.claude-plugin/marketplace.json`.
 
 - **Name**: Brand Building Skills
-- **GitHub**: [brandbuilding-skills](https://github.com)
+- **GitHub**: [brand-building-skills](https://github.com/arnabbagxd/brand-building-skills)
 - **License**: MIT
 
 ## Repository Structure
 
 ```
-brandbuilding-skills/
+brand-building-skills/
 ├── .claude-plugin/
 │   └── marketplace.json   # Claude Code plugin marketplace manifest
 ├── skills/                # Agent Skills

@@ -5,7 +5,7 @@ A collection of AI agent skills focused on brand building services. Built for br
 ## Install
 
 ```bash
-npx skills add arnabbagxd/Brand-building-skills
+npx skills add arnabbagxd/brand-building-skills
 ```
 
 **Contributions welcome!** Found a way to improve a skill or have a new one to add? Open a PR.

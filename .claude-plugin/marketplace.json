@@ -1,13 +1,13 @@
 {
-  "name": "brandbuilding-skills",
+  "name": "brand-building-skills",
   "owner": {
     "name": "Arnab Bag",
-    "url": "https://github.com"
+    "url": "https://github.com/arnabbagxd"
   },
   "metadata": {
     "description": "Brand building skills for AI agents — strategy, naming, identity, voice, positioning, messaging, auditing, and launch",
-    "version": "1.0.0",
-    "repository": "https://github.com/arnabbag/brandbuilding-skills"
+    "version": "1.2.0",
+    "repository": "https://github.com/arnabbagxd/brand-building-skills"
   },
   "plugins": [
     {
